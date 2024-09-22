@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align=center>
 
+## Top Languages Used By Me
+
+![Top Languages](https://okaeiz-stats-2srh.vercel.app/api/top-langs/?username=okaeiz&layout=compact&theme=radical)
+
+</div>
 <!--
 **okaeiz/okaeiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
